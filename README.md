@@ -21,6 +21,7 @@ This project is part of the Markov Chains and Algorithmic Applications course (C
 The project consists of the following files:
 
 - **MH_SA.ipynb**: Jupyter Notebook containing the implementation of the Metropolis-Hastings algorithm and Simulated Annealing for signal recovery.
+- **MCAA_Project_Qns_description.pdf**: Project description
 - **Markov_chains_miniproject.pdf**: Report detailing the project, including methodology, results, and analysis.
 
 ## Installation
