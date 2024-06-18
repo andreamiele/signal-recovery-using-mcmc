@@ -6,7 +6,7 @@ Welcome to the MCMC Signal Recovery Project! This repository contains all the ne
 
 In this project, we aim to recover a signal from noisy observations using MCMC techniques. We explore different scenarios and optimization problems to estimate the unknown vector \( \theta \) given observations \( (X, y) \).
 
-This project is part of the Markov Chains and Algorithmic Applications course (COM-516) at EPFL, Fall 2023, worth 6 ECTS credits.
+This project is part of the **Markov Chains and Algorithmic Applications** course (COM-516) at EPFL, Fall 2023, worth 6 ECTS credits.
 ## Table of Contents
 
 - [Project Overview](#project-overview)
